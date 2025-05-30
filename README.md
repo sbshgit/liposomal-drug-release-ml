@@ -20,14 +20,8 @@ In this work, we:
 
 ---
 
-## 🛠️ Installation
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/sbshgit/Predictive-Modeling-of-Drug-Release-from-Liposomal-Nano-Anticancer-Drugs.git
-   cd Predictive-Modeling-of-Drug-Release-from-Liposomal-Nano-Anticancer-Drugs
-
 ## 📑 Citation
 If you use this code or data, please cite:
+
 S. Shiranirad and Z. Barzegar, "Predictive Modeling of Drug Release from Liposomal Nano-Anticancer Drugs Using Advanced Machine Learning Techniques and TreeSHAP for Interpretability," 2025 Eighth International Women in Data Science Conference at Prince Sultan University (WiDS PSU), Riyadh, Saudi Arabia, 2025, pp. 222-228, doi: 10.1109/WiDS-PSU64963.2025.00052. keywords: {Drugs;Adaptation models;Uncertainty;Accuracy;Machine learning;Predictive models;Mathematical models;Drug delivery;Data models;Kinetic theory;Liposomes;Artificial Intelligence;Machine learning;Drug release kinetics;SHAP analysis;Cancer therapy},
 
