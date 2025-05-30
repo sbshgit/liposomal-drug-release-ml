@@ -2,7 +2,7 @@
 Predictive Modeling of Drug Release from Liposomal Nano-Anticancer Drugs Using Advanced Machine Learning Techniques and TreeSHAP for Interpretability
 # Predictive Modeling of Drug Release from Liposomal Nano-Anticancer Drugs
 
-This repository contains all code and data supporting the article **“Predictive Modeling of Drug Release from Liposomal Nano-Anticancer Drugs Using Advanced Machine Learning Techniques and TreeSHAP for Interpretability”** by Saba Shiranirad _et al._ :contentReference[oaicite:0]{index=0}.
+This repository contains all code and data supporting the article **“Predictive Modeling of Drug Release from Liposomal Nano-Anticancer Drugs Using Advanced Machine Learning Techniques and TreeSHAP for Interpretability”** by Saba Shiranirad _et al._ .
 
 ---
 
